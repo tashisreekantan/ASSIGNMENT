@@ -1,0 +1,52 @@
+/* style of education */
+body{
+    background-color: beige;
+}
+span{
+    font-size: 35px;
+    text-align: center;
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+span1{
+    font-size: 27px;
+    color: blue;
+    text-align: center;
+    text-decoration: underline;
+}
+
+a{
+    background-color: #4c66af;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+  }
+a:hover {background-color: #010418e0;}
+img:hover{ opacity: .6;}
+
+/* style of Experience */
+.ex{
+    background-color: antiquewhite;
+
+}
+span2{
+    font-size: 35px;
+    text-align: center;
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px rgb(255, 38, 0), 0 0 5px rgb(84, 15, 3);
+}
+h3{
+    color: blue;
+    font-family: monospace;
+}
+.work{
+    color: brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
